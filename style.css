@@ -1,3 +1,7 @@
 h1{
     color: blue;
 }
+
+nav li{
+    display: inline-block;
+}
